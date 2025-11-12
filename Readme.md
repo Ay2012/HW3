@@ -71,8 +71,9 @@ results/loss_curve_*.csv
 
 # Reproducibility
 
+
 Seed: 1337 for Python/NumPy/Torch
-Device: CPU by default (log this in the report)
+Device: CPU by default 
 State your hardware (CPU, RAM) in the report’s reproducibility section.
 
 # Notes & Troubleshooting

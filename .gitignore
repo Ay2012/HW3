@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data & artifacts
+Data/Raw/
+Data/processed/*.txt
+Data/processed/*.json
+Data/processed/*.csv
+results/*.pt
+results/*.ckpt
+
+# OS / editors
+.DS_Store
+.vscode/
